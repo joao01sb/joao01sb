@@ -1,4 +1,4 @@
-### Oi bem vindo ao meu repositorio.
+### Hi welcome to my repository.
 
 
 
@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/z/)
 
 
-### Tecnologias que uso no meu dia.
+### Technologies I use in my day.
 <div style=" display: inline_block">
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
