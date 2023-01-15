@@ -1,6 +1,8 @@
-## <samp>Oie, Eu sou o</samp> [Joao Carlos](https://www.linkedin.com/in/guilherme-peres-lins-da-palma) :smiley:👋
+## <samp>Oie, Eu sou o</samp> [Joao Carlos](https://www.linkedin.com/in/joao-carlos-silva-bonfim-1a045b206/) :smiley:👋
 
-
+<h4 align="center" id="home">
+   <samp>:star2: Estudande de Ciência da Computação e Desenvolvimento de Software Multiplataformas - :closed_book: :star2:</samp>
+</h4>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-carlos-silva-bonfim-1a045b206/)
 [![Telegram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
