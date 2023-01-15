@@ -4,6 +4,16 @@
    <samp>:star2: Estudande de Ciência da Computação e Desenvolvimento de Software Multiplataformas - :closed_book: :star2:</samp>
 </h4>
 
+- **Linguagens**
+    <br/>
+    ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=Dart&logoColor=blue)
+    ![Java (Android)](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Android&logoColor=sucess)
+    ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=blue)
+    ![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=Csharp&logoColor=green)
+    ![ASP .NET](https://img.shields.io/badge/-ASP%20.NET-333333?style=flat-square&logo=.net&logoColor=ffffff)
+    ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php&logoColor=sucess)
+    ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown&logoColor=white)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-carlos-silva-bonfim-1a045b206/)
 [![Telegram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/z/)
