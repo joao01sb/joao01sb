@@ -6,11 +6,10 @@
 
 - **Linguagens**
     <br/>
-    ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=Dart&logoColor=blue)
-    ![Java (Android)](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Android&logoColor=sucess)
-    ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=blue)
+    ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+    ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
     ![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=Csharp&logoColor=green)
-    ![ASP .NET](https://img.shields.io/badge/-ASP%20.NET-333333?style=flat-square&logo=.net&logoColor=ffffff)
     ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php&logoColor=sucess)
     ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown&logoColor=white)
 
