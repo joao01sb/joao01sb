@@ -1,4 +1,4 @@
-### Oi bem vindo ao meu repositorio.
+## <samp>Oie, Eu sou o</samp> [Joao Carlos](https://www.linkedin.com/in/guilherme-peres-lins-da-palma) :smiley:👋
 
 
 
