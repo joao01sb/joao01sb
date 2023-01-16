@@ -36,14 +36,14 @@
       
    <br />
 
-   <a title="Repositorios" >
-      <img height="40" alt="Repositorios"
-           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+   <a title="Kotlin" >
+      <img height="40" alt="Kotlin"
+           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
    </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a title="Git" >
-      <img height="40" alt="Git"
-           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <a title="Mysql" >
+      <img height="40" alt="Mysql"
+           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a title="Spring">
@@ -59,10 +59,6 @@
    <a title="Java" >
       <img height="40" alt="Java"
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a title="C#" >
-      <img height="40" alt="C#"
-           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
 </div>
 </div><br/>
