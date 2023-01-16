@@ -1,4 +1,4 @@
-## <samp>Oie, Eu sou o</samp> [Joao Carlos](https://www.linkedin.com/in/joao-carlos-silva-bonfim-1a045b206/) :smiley:👋
+## <samp>Oie, sou o</samp> [Joao Carlos](https://www.linkedin.com/in/joao-carlos-silva-bonfim-1a045b206/) :smiley:👋
 
 <h4 align="center" id="home">
    <samp>:star2: Estudande de Ciência da Computação e Desenvolvimento de Software Multiplataformas - :closed_book: :star2:</samp>
