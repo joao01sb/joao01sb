@@ -7,7 +7,7 @@
 - **Linguagens**
     <br/>
     ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat-square&logo=kotlin&logoColor=purple)
-    ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=blue)
+    ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=yellon)
     ![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=Csharp&logoColor=green)
     ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=MySQL)
 
@@ -25,7 +25,6 @@
     ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat-square&logo=intellij-idea&logoColor=white)
     ![Github](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
     ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
-    ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
     ![Azure](https://img.shields.io/badge/-Azure_DevOps-333333?style=flat-square&logo=azure-devops)
     
     
