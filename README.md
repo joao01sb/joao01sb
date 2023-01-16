@@ -7,7 +7,7 @@
 - **Linguagens**
     <br/>
     ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat-square&logo=kotlin&logoColor=purple)
-    ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=yellon)
+    ![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logo=java)
     ![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=Csharp&logoColor=green)
     ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=MySQL)
 
@@ -27,15 +27,47 @@
     ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
     ![Azure](https://img.shields.io/badge/-Azure_DevOps-333333?style=flat-square&logo=azure-devops)
     
-    
-    
     <br/>
 
 <div align="center">
    <h5>Entre em Contato :smile:<h5/>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-carlos-silva-bonfim-1a045b206/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/z/)
 
-                                                                                                                             
-  
+   [![WhatsApp](https://img.shields.io/badge/WhatsApp-fff?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=55011954487109&text=Ola%20Joao,%20tudo%20bem%20?)
+   [![Email GMAIL](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:neetjoao@gmail.com)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/joao-carlos-silva-bonfim-1a045b206/)
+      
+   <br />
+   <br />
+   <br />
+
+   <a title="Repositorios" >
+      <img height="40" alt="Repositorios"
+           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a title="Git" >
+      <img height="40" alt="Git"
+           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a title="Spring">
+      <img height="40" alt="Spring"
+           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a title="Java Android" >
+      <img height="40" alt="Java Android"
+           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
+   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a title="Java" >
+      <img height="40" alt="Java"
+           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a title="C#" >
+      <img height="40" alt="C#"
+           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   </a>
+</div>
 </div><br/>
