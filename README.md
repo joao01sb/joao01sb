@@ -6,18 +6,18 @@
 
 - **Linguagens**
     <br/>
-    ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat-square&logo=kotlin&logoColor=white)
+    ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat-square&logo=kotlin&logoColor=purple)
     ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=blue)
     ![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=Csharp&logoColor=green)
     ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=MySQL)
 
 - **Skills**
     <br/>
-    ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-    ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+    ![Android](https://img.shields.io/badge/Android-333333?style=flat-square&logo=android)
+    ![Spring](https://img.shields.io/badge/Spring-333333?style=flat-square&logo=spring)
     ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat-square&logo=firebase)
-    ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat-square&logo=sqlite)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb)
     
 - **Ferramentas de Desenvolvimento**
     <br/>
