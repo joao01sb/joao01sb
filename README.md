@@ -26,8 +26,6 @@
     ![Github](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
     ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
     ![Azure](https://img.shields.io/badge/-Azure_DevOps-333333?style=flat-square&logo=azure-devops)
-    
-    <br/>
 
 <div align="center">
    <h5>Entre em Contato :smile:<h5/>
@@ -36,8 +34,6 @@
    [![Email GMAIL](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:neetjoao@gmail.com)
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/joao-carlos-silva-bonfim-1a045b206/)
       
-   <br />
-   <br />
    <br />
 
    <a title="Repositorios" >
@@ -68,6 +64,5 @@
    <a title="C#" >
       <img height="40" alt="C#"
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   </a>
 </div>
 </div><br/>
