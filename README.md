@@ -33,32 +33,6 @@
    [![WhatsApp](https://img.shields.io/badge/WhatsApp-fff?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=55011954487109&text=Ola%20Joao,%20tudo%20bem%20?)
    [![Email GMAIL](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:neetjoao@gmail.com)
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/joao-carlos-silva-bonfim-1a045b206/)
-      
-   <br />
-
-   <a title="Kotlin" >
-      <img height="40" alt="Kotlin"
-           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-   </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a title="Mysql" >
-      <img height="40" alt="Mysql"
-           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-   </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a title="Spring">
-      <img height="40" alt="Spring"
-           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-   </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a title="Java Android" >
-      <img height="40" alt="Java Android"
-           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
-   </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a title="Java" >
-      <img height="40" alt="Java"
-           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+     
   
 </div>
-</div><br/>
