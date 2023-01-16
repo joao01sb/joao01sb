@@ -6,26 +6,27 @@
 
 - **Linguagens**
     <br/>
-    ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat-square&logo=kotlin&logoColor=white)
+    ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=blue)
+    ![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=Csharp&logoColor=green)
+    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=MySQL)
 
 - **Skills**
     <br/>
     ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
     ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat-square&logo=firebase)
     ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
     
 - **Ferramentas de Desenvolvimento**
     <br/>
-    ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-    ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-    ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat-square&logo=firebase)
-    ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+    ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat-square&logo=AndroidStudio)
+    ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat-square&logo=intellij-idea&logoColor=white)
+    ![Github](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
     ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
     ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+    ![Azure](https://img.shields.io/badge/-Azure_DevOps-333333?style=flat-square&logo=azure-devops)
     
     
     
