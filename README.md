@@ -9,13 +9,13 @@
     ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat-square&logo=kotlin&logoColor=purple)
     ![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logo=java)
     ![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=Csharp&logoColor=green)
-    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=MySQL)
 
 - **Skills**
     <br/>
     ![Android](https://img.shields.io/badge/Android-333333?style=flat-square&logo=android)
     ![Spring](https://img.shields.io/badge/Spring-333333?style=flat-square&logo=spring)
     ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat-square&logo=firebase)
+    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=MySQL)
     ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat-square&logo=sqlite)
     ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb)
     
